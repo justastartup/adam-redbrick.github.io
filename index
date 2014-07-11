@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <title>Red Brick Ventures</title>
+  <meta name="description" content="" />
+
+  <link rel="profile" href="http://gmpg.org/xfn/11" />
+  <link rel="icon" type="image/ico" href="images/rb.ico">
+  <link rel="SHORTCUT ICON" type="image/ico" href="images/rb.ico">
+  <!--[if lt IE 9]>
+  <script src="http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/html5.js" type="text/javascript"></script>
+  <![endif]-->
+
+<!-- Fonts ================================================== -->
+
+<link rel='stylesheet' id='aqpb-view-css-css'  href='http://astrum.purethemes.wpengine.com/wp-content/plugins/Aqua-Page-Builder/assets/css/aqpb-view.css?ver=1401255225' type='text/css' media='all' />
+<link rel='stylesheet' id='purethemes-shortcodes-css'  href='http://astrum.purethemes.wpengine.com/wp-content/plugins/purethemes-shortcodes/css/shortcodes.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='astrum-switcher-css'  href='http://astrum.purethemes.wpengine.com/wp-content/plugins/purethemes-styleswitcher//switcher.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://astrum.purethemes.wpengine.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.3.8&#038;ver=3.9.1' type='text/css' media='all' />
+
+<style type='text/css'>
+.tp-caption a {
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+</style>
+
+<link rel='stylesheet' id='rs-plugin-captions-css'  href='http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/rs-plugin/css/captions.php?rev=4.3.8&#038;ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='css/rb.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css'  href='css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var astrumsw = {"switchercss":"http:\/\/astrum.purethemes.wpengine.com\/wp-content\/plugins\/purethemes-styleswitcher\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/plugins/purethemes-styleswitcher//switcher.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/mailchimp-widget.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.3.8&#038;ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.8&#038;ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/jquery.magnific-popup.min.js?ver=3.9.1'></script>
+
+
+ <style type="text/css">
+ #header { height: 86px; }
+   #logo {
+    margin-top:10px;      }
+  .compact #logo {
+    margin-top:20px;  }
+  #tagline {  }
+
+a,a:visited,#not-found i,.comment-by span.reply a:hover,.comment-by span.reply a:hover i,.categories a:hover,.testimonials-author,.happy-clients-author,.dropcap,.meta ul li a:hover,.list-1 li:before,.list-2 li:before,.list-3 li:before,.list-4 li:before, .widget li.current_page_item a, a.twitter-link, .widget li.twitter-item a
+{color:red}
+#astrum_header_cart ul li img:hover, ul.product_list_widget li img:hover,  .menu > ul > li.current-menu-item > a, .menu ul li.current-menu-ancestor > a,#current,.menu ul li a:hover,.menu ul > li:hover > a,.flickr-widget-blog a:hover,#footer .flickr-widget-blog a:hover, .widget .flickr-widget-blog li a:hover
+{border-color:red}
+.menu ul ul
+{border-top-color:red}
+#filters a:hover,.selected, ul.product_list_widget li img:hover, #astrum_header_cart ul li img:hover, .quantity.buttons_added .plus:hover, .quantity.buttons_added .minus:hover
+{background-color:red!important}
+.premium .plan-price,.premium .plan-features a.button:hover, .cart_contents, .price_slider_wrapper .button:hover
+{background-color:gray}
+.featured-box:hover > .circle-2,.featured-box:hover > .circle-3 {box-shadow:0 0 0 8px rgba(115,184,25,0.3)}
+.menu > ul > li.current-menu-item > a:after, .current-menu-ancestor > a:after,.wp-pagenavi .current, .pagination .current,.pagination a:hover, .wp-pagenavi a:hover, .tagcloud a:hover,.button.gray:hover,.button.light:hover,.button.color,input[type=button],input[type=submit],input[type=button]:focus,input[type=submit]:focus, #footer .tabs-nav li.active a, .tabs-nav li.active a,.ui-accordion .ui-accordion-header-active:hover,.ui-accordion .ui-accordion-header-active,.trigger.active a,.trigger.active a:hover,.skill-bar-value,.highlight.color,.notice-box:hover
+{background:red}
+.price_slider_wrapper .ui-widget-header,span.onsale, .tp-leftarrow:hover,.tp-rightarrow:hover,.flexslider .flex-next:hover,.flexslider .flex-prev:hover,.featured-box:hover > .circle,.featured-box:hover > .circle span,.featured-box:hover > .circle-2,.featured-box:hover > .circle-3,.portfolio-item:hover > figure > a .item-description,.sb-navigation-left:hover,.sb-navigation-right:hover,.widget_ns_mailchimp input.button, .newsletter-btn,.search-btn,.premium.plan h3,.premium .plan-features a.button,.pagination ul li a:hover
+{background-color:red}
+
+
+i.icon-twitter { margin-right: 11px !important; }
+i.icon-dribbble { margin-left: 6px !important; }</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/images/bg/noise.png'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+</head>
+
+
+<body class="home page page-id-558 page-template page-template-template-home-php custom-background wide">
+
+<!-- Header ================================================== -->
+
+<header id="header">
+
+<!-- Container -->
+<div class="container">
+    <!-- Logo / Mobile Menu -->
+  <div class="three columns nav-menu-container">
+    <div id="mobile-navigation">
+      <form method="get" id="menu-search" action="http://astrum.purethemes.wpengine.com/">
+        <input type="text" name="s" id="s" placeholder="Start Typing..." />
+      </form>
+      <a href="#menu" class="menu-trigger"><i class="icon-reorder"></i></a>
+      <span class="search-trigger"><i class="icon-search"></i></span>
+    </div>
+
+    <div id="logo">
+      <h1><a href="index" title="Red Brick Ventures" rel="home"><img src="images/PNG-TRANSPARENCY.png" alt="RedBrickVentures"/></a></h1>
+      <div id="blogdesc"></div>
+    </div>
+  </div>
+
+<!-- Navigation  ================================================== -->
+  <div class="thirteen columns">
+
+    <nav id="navigation" class="menu">
+    <ul id="responsive" class="menu sf-js-enabled">
+      <li id="menu-item-1180" class="menu-item current-menu-item menu-item-type-post_type menu-item-object-page page_item page-item-558 current_page_item menu-item-1180"><a href="index">Home</a></li>
+      <li id="menu-item-585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-585"><a href="">About Us</a>
+        <ul class="sub-menu">
+          <li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="about">About</a></li>
+          <li id="menu-item-1442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1442"><a href="about#investors">For Investors</a></li>
+          <li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="about#entrepreneurs">For Entrepreneurs</a></li>
+        </ul>
+      </li>
+
+      <li id="menu-item-1186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1186"><a href="contact">Contact</a></li>
+
+      <div id="astrum_header_cart">
+
+      <a href="jp/index"><li id="menu-item-1186" class="cart_contents menu-item menu-item-type-post_type menu-item-object-page menu-item-1186">日本語</li></a>
+    </div>
+  </ul>
+</nav>
+</div>
+
+</div>
+
+
+<!-- Container / End -->
+</header>
+<!-- Header / End -->
+
+
+
+
+
+<!-- Content Wrapper / Start -->
+<div id="content-wrapper"><section class="slider"><!-- START REVOLUTION SLIDER 4.3.8 fullwidth mode -->
+
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;max-height:450px;">
+  <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;max-height:450px;height:450px;">
+<ul>  <!-- SLIDE  -->
+  <li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
+    <!-- MAIN IMAGE -->
+    <img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png"  alt="slider-02" data-lazyload="http://astrum.purethemes.wpengine.com/files/2013/02/slider-02.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+    <!-- LAYERS -->
+
+    <!-- LAYER NR. 1 -->
+<!--     <div class="tp-caption header1 sfb"
+      data-x="0"
+      data-y="153"
+      data-speed="300"
+      data-start="500"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">BOOOYAH
+    </div> -->
+
+    <!-- LAYER NR. 2 -->
+    <div class="tp-caption header2 sfb"
+      data-x="1"
+      data-y="195"
+      data-speed="300"
+      data-start="700"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap; text-transform: initial;">Red Brick Ventures is an incubation<br>and acceleration platform dedicated<br>to unleashing the enterpreneurial<br>potential of Japan
+    </div>
+
+    <!-- LAYER NR. 3 -->
+<!--     <div class="tp-caption text sfb"
+      data-x="1"
+      data-y="246"
+      data-speed="300"
+      data-start="1000"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">BLA BLA
+    </div> -->
+
+    <!-- LAYER NR. 4 -->
+    <div class="tp-caption sfb"
+      data-x="600"
+      data-y="11"
+      data-speed="300"
+      data-start="1300"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 5;"><img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png" alt="" data-lazyload="images/redbrick.png">
+    </div>
+
+    <!-- LAYER NR. 5 -->
+<!--     <div class="tp-caption sft"
+      data-x="450"
+      data-y="120"
+      data-speed="300"
+      data-start="1600"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 6;"><img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png" alt="" data-lazyload="http://astrum.purethemes.wpengine.com/files/2013/08/slider-07.png">
+    </div> -->
+
+    <!-- LAYER NR. 6 -->
+<!--     <div class="tp-caption sfb"
+      data-x="570"
+      data-y="195"
+      data-speed="300"
+      data-start="1600"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 7;"><img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png" alt="" data-lazyload="http://astrum.purethemes.wpengine.com/files/2013/09/slider-08.png">
+    </div> -->
+  </li>
+  <!-- SLIDE  -->
+  <li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
+    <!-- MAIN IMAGE -->
+    <img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png"  alt="slider-09" data-lazyload="http://astrum.purethemes.wpengine.com/files/2013/02/slider-03.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+    <!-- LAYERS -->
+
+    <!-- LAYER NR. 1 -->
+    <div class="tp-caption sfb"
+      data-x="440"
+      data-y="40"
+      data-speed="300"
+      data-start="1400"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 2;"><img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png" alt="" data-lazyload="images/sharebu_screen.png">
+    </div>
+
+    <!-- LAYER NR. 2 -->
+<!--     <div class="tp-caption sfb"
+      data-x="622"
+      data-y="76"
+      data-speed="300"
+      data-start="1400"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      data-autoplay="false"
+      data-autoplayonlyfirsttime="false"
+      style="z-index: 3;"><iframe src='http://player.vimeo.com/video/22775048?title=0&byline=0&portrait=0;api=1' width='396' height='298' style='width:396px;height:298px;'></iframe>
+    </div> -->
+
+    <!-- LAYER NR. 3 -->
+    <div class="tp-caption lightheader1 tp-fade"
+      data-x="0"
+      data-y="50"
+      data-speed="300"
+      data-start="400"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 4; white-space: nowrap;"><img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png" alt="" data-lazyload="images/sharebu_logo.png">
+    </div>
+<!-- style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">Video Support -->
+    <!-- LAYER NR. 4 -->
+    <div class="tp-caption header2 tp-fade"
+      data-x="1"
+      data-y="195"
+      data-speed="300"
+      data-start="700"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap; text-transform: initial;">An e-commerce site
+    </div>
+
+    <!-- LAYER NR. 5 -->
+    <div class="tp-caption lighttext tp-fade"
+      data-x="1"
+      data-y="246"
+      data-speed="300"
+      data-start="1000"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;">Sharebu Kids is the exclusive place for discounts on top fashion<br/>apparel and accessories for mommies, babies and kids.<br/>Join our playground to receive up to 90% off retail prices<br/>on the best brands and find out what being<br/>Sharebu Kid is all about!<br/>
+    </div>
+  </li>
+
+
+  <!-- SLIDE  -->
+  <li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
+    <!-- MAIN IMAGE -->
+    <img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png"  alt="slider-03" data-lazyload="http://astrum.purethemes.wpengine.com/files/2013/02/slider-03.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+    <!-- LAYERS -->
+
+    <!-- LAYER NR. 1 -->
+    <div class="tp-caption header1 tp-fade"
+      data-x="0"
+      data-y="80"
+      data-speed="300"
+      data-start="500"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
+      <!-- Retina Ready
+      style="z-index: 4; white-space: nowrap;" -->
+      <img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png" alt="" data-lazyload="images/justa_text.png">
+    </div>
+
+    <!-- LAYER NR. 2 -->
+    <div class="tp-caption header2 tp-fade"
+      data-x="1"
+      data-y="195"
+      data-speed="300"
+      data-start="800"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap; text-transform: initial;">Japan's talent platform for startups
+    </div>
+
+    <!-- LAYER NR. 3 -->
+    <div class="tp-caption text tp-fade"
+      data-x="1"
+      data-y="246"
+      data-speed="300"
+      data-start="1100"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="300"
+      style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">Astrum is ultra responsive and ready for retina <br/>  high-resolution displays.
+    </div>
+
+    <!-- LAYER NR. 4 -->
+    <div class="tp-caption sfb"
+      data-x="520"
+      data-y="20"
+      data-speed="300"
+      data-start="1400"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="800"
+      style="z-index: 5;"><img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png" alt="" data-lazyload="images/justa_imac.png">
+    </div>
+
+    <!-- LAYER NR. 5 -->
+    <!-- <div class="tp-caption sfl"
+      data-x="385"
+      data-y="157"
+      data-speed="300"
+      data-start="1500"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="1200"
+      style="z-index: 6;"><img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png" alt="" data-lazyload="http://astrum.purethemes.wpengine.com/files/2013/09/slider-05.png">
+    </div> -->
+
+    <!-- LAYER NR. 6 -->
+    <div class="tp-caption sfr"
+      data-x="750"
+      data-y="170"
+      data-speed="300"
+      data-start="1500"
+      data-easing="easeOutExpo"
+      data-splitin="none"
+      data-splitout="none"
+      data-elementdelay="0"
+      data-endelementdelay="0"
+      data-endspeed="1200"
+      style="z-index: 7;"><img src="http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/images/dummy.png" alt="" data-lazyload="images/justa_macbook.png">
+    </div>
+  </li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div> </div>
+</div>
+      <script type="text/javascript">
+
+        var tpj=jQuery;
+        tpj.noConflict();
+        var revapi1;
+
+        tpj(document).ready(function() {
+
+        if(tpj('#rev_slider_1_1').revolution == undefined)
+          revslider_showDoubleJqueryError('#rev_slider_1_1');
+        else
+           revapi1 = tpj('#rev_slider_1_1').show().revolution(
+          {
+            dottedOverlay:"none",
+            delay:9000,
+            startwidth:1180,
+            startheight:450,
+            hideThumbs:200,
+
+            thumbWidth:100,
+            thumbHeight:50,
+            thumbAmount:3,
+
+            navigationType:"none",
+            navigationArrows:"solo",
+            navigationStyle:"round",
+
+            touchenabled:"on",
+            onHoverStop:"on",
+
+            swipe_velocity: 0.7,
+            swipe_min_touches: 1,
+            swipe_max_touches: 1,
+            drag_block_vertical: false,
+
+            keyboardNavigation:"off",
+
+            navigationHAlign:"center",
+            navigationVAlign:"bottom",
+            navigationHOffset:0,
+            navigationVOffset:20,
+
+            soloArrowLeftHalign:"left",
+            soloArrowLeftValign:"center",
+            soloArrowLeftHOffset:20,
+            soloArrowLeftVOffset:0,
+
+            soloArrowRightHalign:"right",
+            soloArrowRightValign:"center",
+            soloArrowRightHOffset:20,
+            soloArrowRightVOffset:0,
+
+            shadow:0,
+            fullWidth:"on",
+            fullScreen:"off",
+
+            spinner:"spinner0",
+
+            stopLoop:"off",
+            stopAfterLoops:-1,
+            stopAtSlide:-1,
+
+
+            shuffle:"off",
+
+            autoHeight:"off",
+            forceFullWidth:"off",
+
+
+            hideTimerBar:"on",
+            hideThumbsOnMobile:"off",
+            hideNavDelayOnMobile:1500,            hideBulletsOnMobile:"off",
+            hideArrowsOnMobile:"off",
+            hideThumbsUnderResolution:0,
+
+            hideSliderAtLimit:0,
+            hideCaptionAtLimit:0,
+            hideAllCaptionAtLilmit:0,
+            startWithSlide:0,
+            videoJsPath:"http://astrum.purethemes.wpengine.com/wp-content/plugins/revslider/rs-plugin/videojs/",
+            fullScreenOffsetContainer: ""
+          });
+
+        }); //ready
+
+      </script>
+
+      <!-- END REVOLUTION SLIDER --></section><!-- 960 Container -->
+<div class="container">
+
+                      <div id="aq-template-wrapper-880" >
+                        <div id="aq-block-880-1" class=" columns sixteen  ">
+                          <div class="cf" style="height:45px">
+                          </div>
+                        </div>
+
+
+                    </div>
+<div id="aq-block-880-3" class=" columns sixteen  ">
+  <div class="">
+            <h3 class="headline">Recent Work</h3>
+            <span class="line" style="margin-bottom:0;"></span>
+        </div>
+
+        <!-- ShowBiz Carousel -->
+        <div class="showbiz-container recent-work">
+
+
+
+            <!-- Portfolio Entries -->
+            <div class="showbiz" data-left="#showbiz_left_80" data-right="#showbiz_right_80">
+              <div class="overflowholder">
+                    <ul>
+
+                         <!-- Item -->
+                        <li>
+                            <div class="portfolio-item media">
+                                <figure>
+                                    <div class="mediaholder">
+                                        <a href="http://justa.io/" title="Justa">
+                                        <img width="280" height="200" src="images/justa-on-gray.png" class="attachment-portfolio-4col wp-post-image" alt="portfolio-06" />
+                                        <div class="hovercover">
+                                        </div>
+                                        </a>
+                                    </div>
+
+                                    <a href="http://justa.io/">
+                                        <figcaption class="item-description">
+                                            <h5>Justa</h5>
+                                            <span>Japan's talent platform for </br>startups</span>
+                                        </figcaption>
+                                    </a>
+                                </figure>
+                            </div>
+                        </li>
+
+                         <!-- Item -->
+                        <li>
+                            <div class="portfolio-item media">
+                                <figure>
+                                    <div class="mediaholder">
+                                      <a href="http://streme.co/" title="Streme">
+                                        <img width="280" height="200" src="images/streme-on-gray.png" class="attachment-portfolio-4col wp-post-image" alt="portfolio-07" />
+                                        <div class="hovercover"></div>
+                                      </a>
+                                    </div>
+
+                                    <a href="http://streme.co/">
+                                    <figcaption class="item-description">
+                                      <h5>Streme</h5>
+                                      <span>The easiest way to keep a collaborative stream of links</span>
+                                    </figcaption>
+                                    </a>
+                                </figure>
+                            </div>
+                        </li>
+
+                         <!-- Item -->
+                        <li>
+                            <div class="portfolio-item media">
+                                <figure>
+                                    <div class="mediaholder">
+                                        <a href="http://www.sharebukids.jp/" title="Mountain Biking">
+                                        <img width="280" height="200" src="images/sharebu-on-gray.png" class="attachment-portfolio-4col wp-post-image" alt="portfolio-08" />
+                                        <div class="hovercover"></div>
+                                        </a>
+                                    </div>
+
+                                    <a href="http://www.sharebukids.jp/">
+                                        <figcaption class="item-description">
+                                          <h5>Sharebu</h5>
+                                          <span>Online retailer of high-fashion apparel for babies and kids in Japan</span>
+                                        </figcaption>
+                                    </a>
+                                </figure>
+                            </div>
+                        </li>
+                      </ul>
+                    <div class="clearfix"></div>
+
+                </div>
+                <div class="clearfix"></div>
+
+            </div>
+        </div>
+            </div><div id="aq-block-880-4" class=" columns sixteen  "><div class="cf" style="height:20px"></div></div><div id="aq-block-880-5" class=" columns sixteen  ">
+
+
+        </div></div>
+
+
+</div>
+</div>
+<!-- Content Wrapper / End -->
+
+
+
+
+<!-- Footer ================================================== -->
+<div id="footer" class="light">
+  <!-- 960 Container -->
+  <div class="container">
+    <div class="five columns">
+      <div id="text-2" class="widget footer-widget widget_text">
+        <h3>About</h3>
+        <div class="textwidget">Red Brick Ventures is an incubation and acceleration platform dedicated to unleashing the enterpreneurial potential of Japan
+        </div>
+      </div>
+    </div>
+
+    <div class="five columns">
+      <div id="purepress_twitter_widget-3" class="widget footer-widget purepress_twitter_widget">
+        <h3>Twitter</h3>
+        <div class="twitter_box">
+          <ul id="twitter">
+            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/RedBrickVenture" data-widget-id="481318793549852672" data-chrome="noheader nofooter noborders transparent" data-tweet-limit="2">Tweets by @RedBrickVenture</a>
+            <script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            <script src="js/customize-twitter-1.1.min.js" type="text/javascript"></script>
+
+            <script>
+                var options = {
+                    "url": "css/twitter.css"
+                };
+                CustomizeTwitterWidget(options);
+            </script>
+
+            <!-- <li class="twitter-item">
+            <span class="content">Hey, how about we lock a thread about locking threads problem caused by a locked thread? <a href="http://twitter.com/#search?q=justenvatothings" class="twitter-link">#justenvatothings</a> <a href="http://t.co/CS6bbfQdbn" class="twitter-link">http://t.co/CS6bbfQdbn</a> #Envato</span></br>
+            <b class="date"><a>1 month ago </a></b>
+            </li></ul><div class="clearfix"></div>
+            <a href="https://twitter.com/purethemes" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @purethemes</a> -->
+
+          </div>
+        </div>
+      </div>
+
+      <div class="five columns">
+        <div id="purepress_contact-2" class="widget footer-widget purepress-contact">
+          <h3>Get In Touch</h3>
+          <ul  class="get-in-touch">
+            <li><i class="icon-map-marker"></i> <p><strong>Address:</strong> Red Brick Ventures, Jingumae Green Building 4F, 2-26-8 Jingumae, Shibuya-ku, Tokyo 150-0001, JAPAN</p></li>
+            <li><i class="icon-phone"></i> <p><strong>Phone:</strong> +03-4520-5446   +81-3-4520-5446</p></li>
+            <li><i class="icon-envelope"></i> <p><strong>Email:</strong> <a href="mailto:mail@example.com">info@redbrickventures.co.jp</a></p></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Container / End -->
+  </div>
+<!-- Footer / End -->
+
+<!-- Footer Bottom / Start -->
+<div id="footer-bottom" class="light">
+  <!-- Container -->
+  <div class="container">
+    <div class="eight columns">
+      © Red Brick Ventures Inc. All Rights Reserved.
+    </div>
+    <div class="eight columns">
+      <ul class="social-icons-footer">
+        <li><a class="tooltip top" title="Twitter" href="https://twitter.com/RedBrickVenture"><i class="icon-twitter"></i></a></li>
+        <li><a class="tooltip top" title="Dribbble" href="https://dribbble.com/RedBrickVentures"><i class="icon-dribbble"></i></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- Container / End -->
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+/* =================================================================== */
+/* Mobile Navigation
+====================================================================== */
+#mobile-navigation { display: none; }
+
+@media only screen and (max-width: 959px) {
+
+  #mobile-navigation { display: block; }
+  #astrum_header_cart,
+  #responsive,
+  .search-container { display: none; }
+
+  .container .columns.nav-menu-container {
+    width: 98%
+  }
+
+  #header {
+    z-index: 999;
+    background-color: #000;
+    height: 79px;
+    margin-top: 0;
+    position: relative;
+    width: 100%;
+  }
+
+  body { padding-top: 0; }
+  #header-full #logo,
+  #header #logo {
+    width: 124px;
+/*  left: 0;
+    right: 0;
+    position: absolute; */
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 21px;
+    z-index: 99;
+    float: none;
+
+  }
+  #blogdesc {
+    display: none;
+  }
+  #logo img {
+    max-height: 51px;
+    width: auto;
+  }
+
+  #header-full #contact-details {
+    float: left;
+    margin-top: 0px;
+  }
+  #header-full #contact-details ul {
+    margin-left: 0px
+  }
+
+  a.menu-trigger {
+    color: #a0a0a0;
+    display: block;
+    font-size: 28px;
+    float: left;
+    background: #fff;
+    z-index: 100;
+    position: relative;
+  }
+
+  .search-trigger {
+    color: #a0a0a0;
+    display: block;
+    font-size: 28px;
+    float: right;
+    cursor: pointer;
+    background: #fff;
+    z-index: 100;
+    position: relative;
+  }
+
+  #menu-search {
+    display: none;
+  }
+
+  #menu-search input {
+    float: left;
+    box-shadow: none;
+    border: 0;
+    font-size: 16px;
+    color: #aaa;
+    width: 50%;
+    padding: 27px 0 23px 0;
+  }
+
+  a.menu-trigger,
+  .search-trigger { padding: 25px 30px; }
+
+  a.menu-trigger { padding-left:0; }
+  .search-trigger { padding-right:0; }
+
+  #menu-search input:focus { color: #888; }
+
+  #menu-search input::-webkit-input-placeholder { color: #a0a0a0; opacity: 1;}
+  #menu-search input::-moz-placeholder { color: #a0a0a0; opacity: 1; }
+  #menu-search input:-ms-input-placeholder { color: #a0a0a0; opacity: 1; }
+  #menu-search input:focus::-webkit-input-placeholder { color: #888; opacity: 1; }
+  #menu-search input:focus::-moz-placeholder { color: #888; opacity: 1; }
+  #menu-search input:focus:-ms-input-placeholder { color: #888; opacity: 1; }
+
+  .jPanelMenu-panel {
+    -webkit-box-shadow: 3px 0 20px 0 rgba(0, 0, 0, 0.28);
+    box-shadow: 3px 0 20px 0 rgba(0, 0, 0, 0.28);
+  }
+
+}
+</style>
+
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/plugins/Aqua-Page-Builder/assets/js/aqpb-view.js?ver=1401255225'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/plugins/purethemes-shortcodes/js/shortcodes.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/astrum.purethemes.wpengine.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/astrum.purethemes.wpengine.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/astrum.purethemes.wpengine.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+
+
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/jquery.easing.min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/jquery.themepunch.plugins.min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/jquery.themepunch.showbizpro.min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/jquery.tooltips.min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/jquery.superfish.js?ver=3.9.1'></script>
+<script type='text/javascript' src='js/jquery.twitter.js'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/jquery.flexslider.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/jquery.jpanelmenu.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/jquery.isotope.min.js?ver=3.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var astrum = {"ajaxurl":"http:\/\/astrum.purethemes.wpengine.com\/wp-admin\/admin-ajax.php","nonce":"f9d36d9489","flexslidespeed":"7000","flexanimspeed":"600","flexanimationtype":"fade","breakpoint":"959","sticky":"disable"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-content/themes/astrum/js/custom.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://astrum.purethemes.wpengine.com/wp-includes/js/comment-reply.min.js?ver=3.9.1'></script>
+</body>
+</html>
